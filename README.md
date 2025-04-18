@@ -29,7 +29,6 @@ Extracting the saved Wifi network on the device:
 
 --------------------
 Network:   Free_Wifi
-
 Password:  password123
 --------------------
 
