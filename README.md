@@ -2,7 +2,6 @@
 
 A simple C# console tool that displays all saved Wi-Fi profiles on your device along with their passwords (if available). The tool also allows you to save the results to a CSV file.
 
----
 
 ## ✨ 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
@@ -12,12 +11,10 @@ A simple C# console tool that displays all saved Wi-Fi profiles on your device a
 - Saves results to a CSV file.
 - Great for learning how to interact with system commands in C#.
 
----
 
 > 🧑‍🎓 *This tool is beginner-friendly and was built as part of my early learning journey with C#.*  
 > *If you're just starting out, this is a great project to understand how C# can interact with system commands.*
 
----
 
 ## ⚙️ 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐔𝐍
 
@@ -25,7 +22,6 @@ A simple C# console tool that displays all saved Wi-Fi profiles on your device a
 2. Make sure you have permission to run `netsh` commands.
 3. Run the program — it will display all Wi-Fi profiles and their stored passwords (if found), and it will save the results to a `wifi_profiles.csv` file.
 
----
 
 ## 🖥️ 𝐒𝐀𝐌𝐏𝐋𝐄 𝐎𝐔𝐓𝐏𝐔𝐓
 
@@ -33,13 +29,13 @@ Extracting the saved Wifi network on the device:
 
 --------------------
 Network:   Free_Wifi
+
 Password:  password123
 --------------------
 
 Result have been saved to wifi_profiles.csv
 Finished, press Enter to exit...
 
----
 
 ## 📝 𝐒𝐀𝐌𝐏𝐋𝐄 𝐂𝐒𝐕 𝐎𝐔𝐓𝐏𝐔𝐓
 
@@ -53,7 +49,6 @@ Free_Wifi, password123
 A beginner developer exploring the world of C#.  
 This project was built with curiosity, persistence, and a little help from AI. 😄
 
----
 
 ## 📌 𝐍𝐎𝐓𝐄𝐒
 
@@ -61,7 +56,6 @@ This project was built with curiosity, persistence, and a little help from AI. �
 - This works on **Windows only** (since it relies on `netsh`).
 - The results will be saved in a file called `wifi_profiles.csv` in the same directory as the program.
 
----
 
 ## 📈 𝐅𝐔𝐓𝐔𝐑𝐄 𝐈𝐌𝐏𝐑𝐎𝐕𝐄𝐌𝐄𝐍𝐓𝐒 *(optional)*
 
