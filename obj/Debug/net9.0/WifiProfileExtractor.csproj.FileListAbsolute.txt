@@ -1,0 +1,14 @@
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\bin\Debug\net9.0\WifiProfileExtractor.exe
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\bin\Debug\net9.0\WifiProfileExtractor.deps.json
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\bin\Debug\net9.0\WifiProfileExtractor.runtimeconfig.json
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\bin\Debug\net9.0\WifiProfileExtractor.dll
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\bin\Debug\net9.0\WifiProfileExtractor.pdb
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\WifiProfileExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\WifiProfileExtractor.AssemblyInfoInputs.cache
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\WifiProfileExtractor.AssemblyInfo.cs
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\WifiProfileExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\WifiProfileExtractor.dll
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\refint\WifiProfileExtractor.dll
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\WifiProfileExtractor.pdb
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\WifiProfileExtractor.genruntimeconfig.cache
+C:\Users\Said\.vscode\MyApp\WifiProfileExtractor\obj\Debug\net9.0\ref\WifiProfileExtractor.dll
