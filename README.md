@@ -27,10 +27,10 @@ A simple C# console tool that displays all saved Wi-Fi profiles on your device a
 
 Extracting the saved Wifi network on the device: 
 
---------------------
+
 Network:   Free_Wifi
+
 Password:  password123
---------------------
 
 Result have been saved to wifi_profiles.csv
 Finished, press Enter to exit...
