@@ -1,4 +1,8 @@
-﻿using System;
+// This project is intended as a sadaqah jariyah (صدقة جارية)
+// Feel free to use, share, and improve it. May it benefit others.
+
+
+using System;
 
 class Program
 {
