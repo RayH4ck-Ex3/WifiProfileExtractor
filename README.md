@@ -3,13 +3,6 @@
 A simple C# console tool that displays all saved Wi-Fi profiles on your device along with their passwords (if available). The tool also allows you to save the results to a CSV file.
 
 
-## 🙏 About
-This project was created with the intention of being a *sadaqah jariyah* (صدقة جارية).  
-If you find it useful or educational, feel free to use it, modify it, and share it.
-
-May Allah accept and reward all beneficial knowledge shared. 🤍
-
-
 ## ✨ 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
 - Retrieves all saved Wi-Fi profiles using the `netsh` command.
@@ -71,3 +64,34 @@ This project was built with curiosity, persistence, and a little help from AI. �
 - Implement a feature to delete saved Wi-Fi profiles.
 
 
+![Sadaqah Jariyah](https://img.shields.io/badge/Intentions-Sadaqah_Jariyah-green)  
+# ❤️ Sadaqah Jariyah Project  
+**This project is developed as a continuous charity (صدقة جارية) for the benefit of the Ummah.**  
+
+📌 **Intentions:**  
+- To serve as a free and open-source tool for those in need.  
+- To encourage knowledge sharing in the cybersecurity community.  
+
+🕌 **Islamic Ethos:**  
+> * on the authority of Abu- Huraira (Peace and blessings be upon him) said: “When the son of Adam dies his actions are cut off except for three: A continuing charity, or some knowledge from which benefit is derived, or a righteous son who makes supplication for him.”*
+> *(Sahih Muslim 1631)*  
+
+🔗 **Usage:**  
+- Feel free to use, modify, and distribute this project.  
+- If you benefit from it, please make dua for me and the contributors.  
+
+⚠️ **Note:**  
+- This tool is for **ethical and educational purposes only**.  
+- Misuse of this project violates Islamic principles.  
+
+## 🌿 نية المشروع  
+هذا العمل وُضِع كـ **صدقة جارية**، جعلته مفتوح المصدر لينتفع به المسلمون وغيرهم.  
+
+📜 **حديث شريف:**  
+> عَنْ أَبِي هُرَيْرَةَ رضي الله تعالى عنه: أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: إِذَا مَاتَ ابنُ آدم انْقَطَعَ عَنْهُ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ، أو عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ. 
+> (رواه مسلم)  
+
+⚖️ **شروط الاستخدام:**  
+- يُمنع استخدام الأداة لأغراض غير أخلاقية أو إيذاء الآخرين.  
+- الدعاء لنا وللمساهمين فيه جزء من الأجر إن شاء الله.  
+(AI used)
