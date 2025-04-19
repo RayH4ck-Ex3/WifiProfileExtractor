@@ -3,6 +3,13 @@
 A simple C# console tool that displays all saved Wi-Fi profiles on your device along with their passwords (if available). The tool also allows you to save the results to a CSV file.
 
 
+## 🙏 About
+This project was created with the intention of being a *sadaqah jariyah* (صدقة جارية).  
+If you find it useful or educational, feel free to use it, modify it, and share it.
+
+May Allah accept and reward all beneficial knowledge shared. 🤍
+
+
 ## ✨ 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
 - Retrieves all saved Wi-Fi profiles using the `netsh` command.
